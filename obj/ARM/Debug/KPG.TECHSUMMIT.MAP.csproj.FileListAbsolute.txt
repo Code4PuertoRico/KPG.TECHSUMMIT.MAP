@@ -1,0 +1,96 @@
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\KPG.TECHSUMMIT.MAP.exe
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\KPG.TECHSUMMIT.MAP.pdb
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\resources.pri
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\AppxManifest.xml
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\KPG.TECHSUMMIT.MAP.build.appxrecipe
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\Bing.Maps.winmd
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\Bing.Maps.xml
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\App.g.i.cs
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\App.g.cs
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\Common\StandardStyles.g.i.cs
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\Common\StandardStyles.g.cs
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\MainPage.g.i.cs
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\MainPage.g.cs
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\App.xaml
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\Common\StandardStyles.xaml
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\MainPage.xaml
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\KPG.TECHSUMMIT.MAP.exe
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\KPG.TECHSUMMIT.MAP.pdb
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\KPG.TECHSUMMIT.MAP.csproj.GenerateResource.Cache
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\priconfig.xml
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\layout.resfiles
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\resources.resfiles
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\pri.resfiles
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\LanguageQualifiers.txt
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\Newtonsoft.Json.xml
+C:\Dropbox\Documents\KPG Consulting\Customers\KPG Consulting\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\KPG.TECHSUMMIT.MAP.csprojResolveAssemblyReference.cache
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\KPG.TECHSUMMIT.MAP.exe
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\KPG.TECHSUMMIT.MAP.pdb
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\resources.pri
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\AppxManifest.xml
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\KPG.TECHSUMMIT.MAP.build.appxrecipe
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\Bing.Maps.winmd
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\Bing.Maps.xml
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\Newtonsoft.Json.xml
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\KPG.TECHSUMMIT.MAP.csprojResolveAssemblyReference.cache
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\App.g.i.cs
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\App.g.cs
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\Common\StandardStyles.g.i.cs
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\Common\StandardStyles.g.cs
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\MainPage.g.cs
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\App.xaml
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\Common\StandardStyles.xaml
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\MainPage.xaml
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\KPG.TECHSUMMIT.MAP.exe
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\KPG.TECHSUMMIT.MAP.pdb
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\KPG.TECHSUMMIT.MAP.csproj.GenerateResource.Cache
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\priconfig.xml
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\layout.resfiles
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\resources.resfiles
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\pri.resfiles
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\LanguageQualifiers.txt
+C:\Users\KPG\Documents\Visual Studio 2012\Projects\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\KPG.TECHSUMMIT.MAP.exe
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\KPG.TECHSUMMIT.MAP.pdb
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\KPG.TECHSUMMIT.MAP.exe
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\KPG.TECHSUMMIT.MAP.pdb
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\resources.pri
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\AppxManifest.xml
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\KPG.TECHSUMMIT.MAP.build.appxrecipe
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\Bing.Maps.winmd
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\bin\ARM\Debug\Bing.Maps.xml
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\App.g.i.cs
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\App.g.cs
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\Common\StandardStyles.g.i.cs
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\Common\StandardStyles.g.cs
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\MainPage.g.cs
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\App.xaml
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\Common\StandardStyles.xaml
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\MainPage.xaml
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\KPG.TECHSUMMIT.MAP.csproj.GenerateResource.Cache
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\priconfig.xml
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\layout.resfiles
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\resources.resfiles
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\pri.resfiles
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\LanguageQualifiers.txt
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\AngelJ\Desktop\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\KPG.TECHSUMMIT.MAP\obj\ARM\Debug\KPG.TECHSUMMIT.MAP.csprojResolveAssemblyReference.cache

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="f4898024-f6ab-4638-954c-46db0c6dda6a" Publisher="CN=EdgarJ" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>KPG.TECHSUMMIT.MAP</DisplayName>
+    <PublisherDisplayName>EdgarJ</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="KPG.TECHSUMMIT.MAP.App">
+      <VisualElements DisplayName="TECHSUMMIT" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="TECHSUMMIT MAP APPLICATION" ForegroundText="light" BackgroundColor="#ffffff">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="Assets\SplashScreen.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+    <DeviceCapability Name="location" />
+  </Capabilities>
+</Package>

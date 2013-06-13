@@ -1,0 +1,128 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:KPG.TECHSUMMIT.MAP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Maps="using:Bing.Maps"
+    x:Class="KPG.TECHSUMMIT.MAP.MainPage"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+
+        
+        
+        <Maps:Map x:Name="map"  HorizontalAlignment="Left" VerticalAlignment="Top" Height="768" Width="1366" 
+                  Credentials="AkLY_uVWcULf6bsLcCXKHfcFNE_tiQnzmyrN0X-MAyybNmx0Jz4ju5COgjCosllG" ZoomLevel="10" ShowTraffic="True">
+            <Maps:Map.Center>
+                <Maps:Location Latitude="18.264015" Longitude="-66.430797" />
+            </Maps:Map.Center>
+
+            <Maps:MapItemsControl HorizontalAlignment="Center" VerticalAlignment="Bottom">
+                <TextBlock x:Name="tbMunicipality" Text="Seleccione un Municipio:" Margin="520,683,0,30" Foreground="Black" FontSize="14" />
+                <ComboBox x:Name="cbMunicipalities" SelectionChanged="cbMunicipalities_SelectionChanged" Width="300" Height="50" Margin="520,700,0,0">
+                    <x:String>Adjuntas</x:String>
+                    <x:String>Aguada</x:String>
+                    <x:String>Aguadilla</x:String>
+                    <x:String>Aguas Buenas</x:String>
+                    <x:String>Aibonito</x:String>
+                    <x:String>Arecibo</x:String>
+                    <x:String>Arroyo</x:String>
+                    <x:String>Añasco</x:String>
+                    <x:String>Barceloneta</x:String>
+                    <x:String>Barranquitas</x:String>
+                    <x:String>Bayamón</x:String>
+                    <x:String>Cabo Rojo</x:String>
+                    <x:String>Caguas</x:String>
+                    <x:String>Camuy</x:String>
+                    <x:String>Canóvanas</x:String>
+                    <x:String>Carolina</x:String>
+                    <x:String>Cataño</x:String>
+                    <x:String>Cayey</x:String>
+                    <x:String>Ceiba</x:String>
+                    <x:String>Ciales</x:String>
+                    <x:String>Cidra</x:String>
+                    <x:String>Coamo</x:String>
+                    <x:String>Comerío</x:String>
+                    <x:String>Corozal</x:String>
+                    <x:String>Culebra</x:String>
+                    <x:String>Dorado</x:String>
+                    <x:String>Fajardo</x:String>
+                    <x:String>Florida</x:String>
+                    <x:String>Guayama</x:String>
+                    <x:String>Guayanilla</x:String>
+                    <x:String>Guaynabo</x:String>
+                    <x:String>Gurabo</x:String>
+                    <x:String>Guánica</x:String>
+                    <x:String>Hatillo</x:String>
+                    <x:String>Hormigueros</x:String>
+                    <x:String>Humacao</x:String>
+                    <x:String>Isabela</x:String>
+                    <x:String>Jayuya</x:String>
+                    <x:String>Juana Díaz</x:String>
+                    <x:String>Juncos</x:String>
+                    <x:String>Lajas</x:String>
+                    <x:String>Lares</x:String>
+                    <x:String>Las Marías</x:String>
+                    <x:String>Las Piedras</x:String>
+                    <x:String>Loiza</x:String>
+                    <x:String>Luquillo</x:String>
+                    <x:String>Manatí</x:String>
+                    <x:String>Maricao</x:String>
+                    <x:String>Maunabo</x:String>
+                    <x:String>Mayagüez</x:String>
+                    <x:String>Moca</x:String>
+                    <x:String>Morovis</x:String>
+                    <x:String>Naguabo</x:String>
+                    <x:String>Naranjito</x:String>
+                    <x:String>Orocovis</x:String>
+                    <x:String>Patillas</x:String>
+                    <x:String>Peñuelas</x:String>
+                    <x:String>Ponce</x:String>
+                    <x:String>Quebradillas</x:String>
+                    <x:String>Rincón</x:String>
+                    <x:String>Rio Grande</x:String>
+                    <x:String>Sabana Grande</x:String>
+                    <x:String>Salinas</x:String>
+                    <x:String>San Germán</x:String>
+                    <x:String>San Juan</x:String>
+                    <x:String>San Lorenzo</x:String>
+                    <x:String>San Sebastián</x:String>
+                    <x:String>Santa Isabel</x:String>
+                    <x:String>Toa Alta</x:String>
+                    <x:String>Toa Baja</x:String>
+                    <x:String>Trujillo Alto</x:String>
+                    <x:String>Utuado</x:String>
+                    <x:String>Vega Alta</x:String>
+                    <x:String>Vega Baja</x:String>
+                    <x:String>Vieques</x:String>
+                    <x:String>Villalba</x:String>
+                    <x:String>Yabucoa</x:String>
+                    <x:String>Yauco</x:String>
+                </ComboBox>
+            </Maps:MapItemsControl>
+
+        </Maps:Map>
+        <StackPanel x:Name="stckCommerceInfo" Margin="0,0,830,504" Visibility="Collapsed">
+            <StackPanel Height="50" Orientation="Horizontal">
+                <TextBlock TextWrapping="Wrap" Text="TextBlock" FontSize="18" Width="170"/>
+                <TextBlock TextWrapping="Wrap" Text="TextBlock" Width="360" FontSize="18"/>
+            </StackPanel>
+            <StackPanel Height="50" Orientation="Horizontal">
+                <TextBlock TextWrapping="Wrap" Text="TextBlock" FontSize="18" Width="170"/>
+                <TextBlock TextWrapping="Wrap" Text="TextBlock" Width="360" FontSize="18"/>
+            </StackPanel>
+            <StackPanel Height="50" Orientation="Horizontal">
+                <TextBlock TextWrapping="Wrap" Text="TextBlock" FontSize="18" Width="170"/>
+                <TextBlock TextWrapping="Wrap" Text="TextBlock" Width="360" FontSize="18"/>
+            </StackPanel>
+            <StackPanel Height="50" Orientation="Horizontal">
+                <TextBlock TextWrapping="Wrap" Text="TextBlock" FontSize="18" Width="170"/>
+                <TextBlock TextWrapping="Wrap" Text="TextBlock" Width="360" FontSize="18"/>
+            </StackPanel>
+        </StackPanel>
+        <Image Margin="1107,595,45,10" Source="Assets/kpg_logo.png"/>
+        <Image Margin="43,595,1109,10" Source="Assets/familia3-380x250.jpg"/>
+
+    </Grid>
+</Page>
